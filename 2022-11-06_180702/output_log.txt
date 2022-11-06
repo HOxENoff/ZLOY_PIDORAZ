@@ -1,0 +1,1187 @@
+Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c81)
+    Vendor:   NVIDIA
+    VRAM:     1977 MB
+    Driver:   30.0.15.1123
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Games\Castle Story\Castle Story_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Games\Castle Story\Castle Story_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Games\Castle Story\Castle Story_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Games\Castle Story\Castle Story_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Games\Castle Story\Castle Story_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Games\Castle Story\Castle Story_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Games\Castle Story\Castle Story_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\AmplifyOcclusion.dll (this message is harmless)
+Loading D:\Games\Castle Story\Castle Story_Data\Managed\AmplifyOcclusion.dll into Unity Child Domain
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\Boo.Lang.Compiler.dll (this message is harmless)
+Loading D:\Games\Castle Story\Castle Story_Data\Managed\Boo.Lang.Compiler.dll into Unity Child Domain
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\brix-common.dll (this message is harmless)
+Loading D:\Games\Castle Story\Castle Story_Data\Managed\brix-common.dll into Unity Child Domain
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\Brix.Core.dll (this message is harmless)
+Loading D:\Games\Castle Story\Castle Story_Data\Managed\Brix.Core.dll into Unity Child Domain
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\Cinemachine.dll (this message is harmless)
+Loading D:\Games\Castle Story\Castle Story_Data\Managed\Cinemachine.dll into Unity Child Domain
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\ArabicSupport.dll (this message is harmless)
+Loading D:\Games\Castle Story\Castle Story_Data\Managed\ArabicSupport.dll into Unity Child Domain
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading D:\Games\Castle Story\Castle Story_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\log4net.dll (this message is harmless)
+Loading D:\Games\Castle Story\Castle Story_Data\Managed\log4net.dll into Unity Child Domain
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\Mono.CSharp.dll (this message is harmless)
+Loading D:\Games\Castle Story\Castle Story_Data\Managed\Mono.CSharp.dll into Unity Child Domain
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\Mono.Nat.dll (this message is harmless)
+Loading D:\Games\Castle Story\Castle Story_Data\Managed\Mono.Nat.dll into Unity Child Domain
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\MoonSharp.Interpreter.dll (this message is harmless)
+Loading D:\Games\Castle Story\Castle Story_Data\Managed\MoonSharp.Interpreter.dll into Unity Child Domain
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\MouseLibWin.dll (this message is harmless)
+Loading D:\Games\Castle Story\Castle Story_Data\Managed\MouseLibWin.dll into Unity Child Domain
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\ProMouseDll.dll (this message is harmless)
+Loading D:\Games\Castle Story\Castle Story_Data\Managed\ProMouseDll.dll into Unity Child Domain
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\Rewired_Core.dll (this message is harmless)
+Loading D:\Games\Castle Story\Castle Story_Data\Managed\Rewired_Core.dll into Unity Child Domain
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\Rewired_Windows_Lib.dll (this message is harmless)
+Loading D:\Games\Castle Story\Castle Story_Data\Managed\Rewired_Windows_Lib.dll into Unity Child Domain
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\Smooth.Foundations.dll (this message is harmless)
+Loading D:\Games\Castle Story\Castle Story_Data\Managed\Smooth.Foundations.dll into Unity Child Domain
+- Completed reload, in  1.707 seconds
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on GameAnalyticsGameObject
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on LocalizationController
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3200x1080 at -1280,0
+<RI> Initialized touch support.
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\System.Configuration.dll (this message is harmless)
+Logging configured using file at 'Info/logging.xml'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'SmoothDisposer') is missing!
+ 
+(Filename:  Line: 1744)
+
+UnloadTime: 1.197100 ms
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\System.Runtime.Serialization.dll (this message is harmless)
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\UnityScript.dll (this message is harmless)
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 481)
+
+Non platform assembly: data-16063980 (this message is harmless)
+Fallback handler could not load library D:/Games/Castle Story/Castle Story_Data/Mono/data-16063980.dll
+Non platform assembly: data-1606E008 (this message is harmless)
+Fallback handler could not load library D:/Games/Castle Story/Castle Story_Data/Mono/data-1606E008.dll
+Non platform assembly: data-17568020 (this message is harmless)
+Fallback handler could not load library D:/Games/Castle Story/Castle Story_Data/Mono/data-17568020.dll
+Rewired: Searching for compatible XInput library...
+Rewired: Found Xinput1_3.dll.
+InvalidOperationException: Steamworks is not initialized.
+  at Steamworks.InteropHelp.TestIfAvailableClient () [0x00000] in <filename unknown>:0 
+  at Steamworks.SteamUtils.GetAppID () [0x00000] in <filename unknown>:0 
+  at Brix.Steam.SteamWorkshopAgent.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 481)
+
+WwiseUnity: Initialize sound engine ...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+WwiseUnity: Sound engine initialized.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 481)
+
+GameAnalytics booted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 481)
+
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\Boo.Lang.dll (this message is harmless)
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 481)
+
+Fallback handler could not load library D:/Games/Castle Story/Castle Story_Data/Mono/libc
+Fallback handler could not load library D:/Games/Castle Story/Castle Story_Data/Mono/.\libc
+Fallback handler could not load library D:/Games/Castle Story/Castle Story_Data/Mono/libc
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3916.
+Total: 16.423101 ms (FindLiveObjects: 0.187100 ms CreateObjectMapping: 0.176600 ms MarkObjects: 16.044701 ms  DeleteObjects: 0.013600 ms)
+
+The referenced script on this Behaviour (Game Object 'Crawler') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Crystal') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'CaptureGoal') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'UIProjectAvatar') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Section') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Section') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'UICharacterAvatar') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'InterestPoint') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'InterestPoint') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Landscape') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Harvest') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Harvest') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Repair') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Repair') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Repair') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Construction') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Construction') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Lumber') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Cleanup') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Tunnel') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Goals') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Mine') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'RaidProjectPlayer') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Sidebar') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Servers') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Timer') is missing!
+ 
+(Filename:  Line: 1744)
+
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 30701.
+Total: 74.111099 ms (FindLiveObjects: 1.735700 ms CreateObjectMapping: 1.034700 ms MarkObjects: 71.260300 ms  DeleteObjects: 0.079600 ms)
+
+The referenced script on this Behaviour (Game Object 'SmoothDisposer') is missing!
+ 
+(Filename:  Line: 1744)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 21.827600 ms
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 233109.
+Total: 411.208221 ms (FindLiveObjects: 20.947701 ms CreateObjectMapping: 6.643100 ms MarkObjects: 367.520905 ms  DeleteObjects: 16.095299 ms)
+
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\Boo.Lang.Parser.dll (this message is harmless)
+Platform assembly: D:\Games\Castle Story\Castle Story_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 153 unused Assets to reduce memory usage. Loaded Objects now: 233371.
+Total: 398.518707 ms (FindLiveObjects: 19.616899 ms CreateObjectMapping: 6.171500 ms MarkObjects: 372.121094 ms  DeleteObjects: 0.608000 ms)
+
+SpawnWithClientAuthority NetworkConnection is not ready!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'SmoothDisposer') is missing!
+ 
+(Filename:  Line: 1744)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+ClientRpc call on un-spawned object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 45.170799 ms
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[NetworkIdentity] () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkBehaviour.get_myView () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkBehaviour.get_isLocalPlayer () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkLobbyPlayer.OnSceneLoaded (Scene scene, LoadSceneMode mode) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene, UnityEngine.SceneManagement.LoadSceneMode>:invoke_void__this___Scene_LoadSceneMode (UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode)
+  at UnityEngine.SceneManagement.SceneManager.Internal_SceneLoaded (Scene scene, LoadSceneMode mode) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+RearViewMirror: Had to look through every assembly for [Brix.Engine.FlatWorld.LodRangeDriver, Brix.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 244586.
+Total: 1052.385742 ms (FindLiveObjects: 18.498501 ms CreateObjectMapping: 6.312000 ms MarkObjects: 1019.231079 ms  DeleteObjects: 8.343500 ms)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 245123.
+Total: 1232.223999 ms (FindLiveObjects: 19.379900 ms CreateObjectMapping: 6.150000 ms MarkObjects: 1206.208862 ms  DeleteObjects: 0.484700 ms)
+
+RearViewMirror: Had to look through every assembly for [Newtonsoft.Json.Serialization.DefaultReferenceResolver, Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=null]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sv level loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sv new level loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Crystal') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Crystal') is missing!
+ 
+(Filename:  Line: 1744)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Data.Article:_GetData()
+Could not find data at {BuildFirstWall}
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Data.Article:_GetData()
+Could not find data at {BuildFirstWall}
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+cl level ready
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+cl new level ready
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sv level ready
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[WARNING] Rewired: The Action "cam_focus_target" does not exist. You can create Actions in the editor.
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Construction') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Construction') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Construction') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Construction') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Construction') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Construction') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Construction') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Construction') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Harvest') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Harvest') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Harvest') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Harvest') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Goals') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Goals') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Construction') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Construction') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Construction') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Construction') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'StorageLocator') is missing!
+ 
+(Filename:  Line: 1744)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GA Error: Couldn't connect to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 3480 -> priority: 1 
+  Thread -> id: 68c -> priority: 1 
+  Thread -> id: 23c8 -> priority: 1 
+  Thread -> id: 16cc -> priority: 1 
+  Thread -> id: 1b80 -> priority: 1 
+  Thread -> id: 3f48 -> priority: 1 
+  Thread -> id: 36a8 -> priority: 1 
+  Thread -> id: 6dc -> priority: 1 
+[ERROR] Rewired: Rewired is not initialized. Do you have a Rewired Input Manager in the scene and enabled?
+------- Rewired System Info -------
+Unity version: 5.6.5f1
+Rewired version: 1.0.0.104.U5
+Platform: Windows
+Using Unity input: False
+
+[ERROR] Rewired: Rewired is not initialized. Do you have a Rewired Input Manager in the scene and enabled?
+------- Rewired System Info -------
+Unity version: 5.6.5f1
+Rewired version: 1.0.0.104.U5
+Platform: Windows
+Using Unity input: False
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Rewired.Player+ControllerHelper+MapHelper.GetAllMapsInCategory[KeyboardMap] (System.String categoryName) [0x00000] in <filename unknown>:0 
+  at Brix.UI.Builder.Menu.We+KeyBindingCategoryUtil.get_KeyboardMaps () [0x00000] in <filename unknown>:0 
+  at Brix.UI.Builder.Menu.We+KeyBindingCategoryUtil.Set (Boolean flag) [0x00000] in <filename unknown>:0 
+  at Brix.UI.Builder.Menu.LuaMenuUtility.SetKeyBindingsTo (Category categoryName, Boolean flag) [0x00000] in <filename unknown>:0 
+  at UIGameObserver.lua_SetKeyBindingCategoryTo (ScriptExecutionContext context, CallbackArguments args) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) System.Func`3<MoonSharp.Interpreter.ScriptExecutionContext, MoonSharp.Interpreter.CallbackArguments, MoonSharp.Interpreter.DynValue>:invoke_DynValue__this___ScriptExecutionContext_CallbackArguments (MoonSharp.Interpreter.ScriptExecutionContext,MoonSharp.Interpreter.CallbackArguments)
+  at MoonSharp.Interpreter.CallbackFunction.Invoke (ScriptExecutionContext executionContext, IList`1 args, Boolean isMethodCall) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.Execution.VM.Processor.Internal_ExecCall (Int32 argsCount, Int32 instructionPtr, MoonSharp.Interpreter.CallbackFunction handler, MoonSharp.Interpreter.CallbackFunction continuation, Boolean thisCall, System.String debugText, DynValue unwindHandler) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.Execution.VM.Processor.Processing_Loop (Int32 instructionPtr) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.Execution.VM.Processor.Call (DynValue function, DynValue arg1, DynValue arg2, DynValue arg3, DynValue arg4, DynValue metafunction) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.Script.Call (DynValue function, DynValue arg1, DynValue arg2, DynValue arg3, DynValue arg4) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.Script.Call (DynValue function) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.Closure.Call () [0x00000] in <filename unknown>:0 
+  at Brix.UI.Builder.Menu.LuaMenu.BeforeCloseAll () [0x00000] in <filename unknown>:0 
+  at Brix.UI.Builder.Menu.BaseMenu.CloseAll (Boolean includeChildren) [0x00000] in <filename unknown>:0 
+  at Brix.UI.Builder.Menu.BaseMenu.Close (Boolean includeChildren) [0x00000] in <filename unknown>:0 
+  at Brix.UI.Builder.Menu.Component.MenuComponent.Release () [0x00000] in <filename unknown>:0 
+  at Brix.UI.Builder.Menu.Component.LuaMenuComponent.Release () [0x00000] in <filename unknown>:0 
+  at Brix.UI.Builder.Menu.Component.MenuComponent.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[CanvasGroup] () [0x00000] in <filename unknown>:0 
+  at Brix.NewUI.OverheadDisplay.OverheadDisplay.Show (Boolean value) [0x00000] in <filename unknown>:0 
+  at Brix.NewUI.OverheadDisplay.OverheadDisplay.ShowOrHide () [0x00000] in <filename unknown>:0 
+  at BaliseOverheadDisplayDriver.OnBaliseVisibilityChanged (Boolean showing) [0x00000] in <filename unknown>:0 
+  at Brix.Utils.Closures.Closure+ABase`1[System.Boolean].Invoke (Boolean t1) [0x00000] in <filename unknown>:0 
+  at Brix.Utils.Closures.Closure+APooled`2[Brix.Utils.Closures.Closure+ABase`1[System.Boolean],System.Boolean].<.ctor>b__1_0 (Boolean a) [0x00000] in <filename unknown>:0 
+  at Brix.Utils.Closures.Closure+APooled`2[Brix.Utils.Closures.Closure+ABase`1[System.Boolean],System.Boolean].Invoke (Boolean t1) [0x00000] in <filename unknown>:0 
+  at Brix.External.Signals.Signal`1[System.Boolean].Invoke (Boolean a) [0x00000] in <filename unknown>:0 
+  at Brix.Game.Beacons.BeaconDriver.set_Showing (Boolean value) [0x00000] in <filename unknown>:0 
+  at Brix.Game.Beacons.BeaconDriver.ShowBaliseIfNeeded () [0x00000] in <filename unknown>:0 
+  at Brix.Game.Beacons.BeaconDriver.OnProjectUnselected (Brix.Game.AI.Project project) [0x00000] in <filename unknown>:0 
+  at Brix.Utils.Closures.Closure+ABase`1[Brix.Game.AI.Project].Invoke (Brix.Game.AI.Project t1) [0x00000] in <filename unknown>:0 
+  at Brix.Utils.Closures.Closure+APooled`2[Brix.Utils.Closures.Closure+ABase`1[Brix.Game.AI.Project],Brix.Game.AI.Project].<.ctor>b__1_0 (Brix.Game.AI.Project a) [0x00000] in <filename unknown>:0 
+  at Brix.Utils.Closures.Closure+APooled`2[Brix.Utils.Closures.Closure+ABase`1[Brix.Game.AI.Project],Brix.Game.AI.Project].Invoke (Brix.Game.AI.Project t1) [0x00000] in <filename unknown>:0 
+  at Brix.External.Signals.Signal`1[Brix.Game.AI.Project].Invoke (Brix.Game.AI.Project a) [0x00000] in <filename unknown>:0 
+  at UIGameObserver+Projects.OnUnselected (Brix.Game.AI.Project project) [0x00000] in <filename unknown>:0 
+  at UIGameObserver+Observer`1[T].<ConnectSelectableSignals>m__1 (Brix.UI.GameSelector.UISelectable s) [0x00000] in <filename unknown>:0 
+  at Brix.Utils.Closures.Closure+ABase`1[Brix.UI.GameSelector.UISelectable].Invoke (Brix.UI.GameSelector.UISelectable t1) [0x00000] in <filename unknown>:0 
+  at Brix.Utils.Closures.Closure+APooled`2[Brix.Utils.Closures.Closure+ABase`1[Brix.UI.GameSelector.UISelectable],Brix.UI.GameSelector.UISelectable].<.ctor>b__1_0 (Brix.UI.GameSelector.UISelectable a) [0x00000] in <filename unknown>:0 
+  at Brix.Utils.Closures.Closure+APooled`2[Brix.Utils.Closures.Closure+ABase`1[Brix.UI.GameSelector.UISelectable],Brix.UI.GameSelector.UISelectable].Invoke (Brix.UI.GameSelector.UISelectable t1) [0x00000] in <filename unknown>:0 
+  at Brix.External.Signals.Signal`1[Brix.UI.GameSelector.UISelectable].Invoke (Brix.UI.GameSelector.UISelectable a) [0x00000] in <filename unknown>:0 
+  at Brix.UI.GameSelector.UISelectable.OnUnselect () [0x00000] in <filename unknown>:0 
+  at Brix.UI.GameSelector.Selection.Unselect (Brix.UI.GameSelector.UISelectable s) [0x00000] in <filename unknown>:0 
+  at Brix.UI.GameSelector.UIGameSelector.Unselect (Brix.UI.GameSelector.UISelectable selectable) [0x00000] in <filename unknown>:0 
+  at Brix.UI.GameSelector.UIGameSelector.Unregister (Brix.UI.GameSelector.UISelectable selectable) [0x00000] in <filename unknown>:0 
+  at Brix.UI.GameSelector.UISelectable.ResetComponent () [0x00000] in <filename unknown>:0 
+  at Brix.Components.BrixComponentPoco+<>c.<ForceResetComponent>b__37_0 (IPoolableComponent pc) [0x00000] in <filename unknown>:0 
+  at Smooth.Slinq.Slinq`2[Brix.Lifecycle.Pooling.IPoolableComponent,Smooth.Slinq.Context.IListContext`1[Brix.Lifecycle.Pooling.IPoolableComponent]].ForEach (Smooth.Delegates.DelegateAction`1 action) [0x00000] in <filename unknown>:0 
+  at Brix.Components.BrixComponentPoco.ForceResetComponent () [0x00000] in <filename unknown>:0 
+  at Brix.Components.BrixComponentPoco.OnDestroy () [0x00000] in <filename unknown>:0 
+  at Brix.Components.BrixComponent.OnDestroy () [0x00000] in <filename unknown>:0 
+  at Brix.Lua.LuaDriver.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Brix.Engine.Lifecycle.SingletonProvider.Create[SingletonProvider,BuilderAudio] () [0x00000] in <filename unknown>:0 
+  at Brix.Engine.Lifecycle.SingletonProvider.Get[BuilderAudio] () [0x00000] in <filename unknown>:0 
+  at Brix.Game.AI.Builder.get_Audio () [0x00000] in <filename unknown>:0 
+  at Brix.Game.AI.Profession.get_Sounds () [0x00000] in <filename unknown>:0 
+  at Brix.Game.AI.Labor.get_Sounds () [0x00000] in <filename unknown>:0 
+  at Brix.Game.AI.Goal.GetEndSoundSignal (Brix.Game.AI.Labor worker, TaskResult result) [0x00000] in <filename unknown>:0 
+  at Brix.Game.AI.Goal.EndWork (Brix.Game.AI.Task work) [0x00000] in <filename unknown>:0 
+  at Brix.Game.AI.Task.OnFinally () [0x00000] in <filename unknown>:0 
+  at Brix.Utils.Closures.Closure+ABase.Invoke () [0x00000] in <filename unknown>:0 
+  at Brix.Utils.Closures.Closure+APooled`1[Brix.Utils.Closures.Closure+ABase].<.ctor>b__1_0 () [0x00000] in <filename unknown>:0 
+  at Brix.Utils.Closures.Closure+APooled`1[Brix.Utils.Closures.Closure+ABase].Invoke () [0x00000] in <filename unknown>:0 
+  at Motus.Behavior.NodeRun.Halt () [0x00000] in <filename unknown>:0 
+  at Motus.Behavior.PooledNodeRun`1[T].Dispose () [0x00000] in <filename unknown>:0 
+  at Motus.Behavior.DynamicNode+DynamicNodeRun`1[Brix.Game.AI.BaseLabor].Terminate () [0x00000] in <filename unknown>:0 
+  at Motus.Behavior.NodeRun.Halt () [0x00000] in <filename unknown>:0 
+  at Motus.Behavior.PooledNodeRun`1[Motus.Behavior.DynamicNode+DynamicNodeRun`1[Brix.Game.AI.BaseLabor]].Dispose () [0x00000] in <filename unknown>:0 
+  at Motus.Behavior.Sequencer+SequenceNodeRun.Terminate () [0x00000] in <filename unknown>:0 
+  at Motus.Behavior.NodeRun.Halt () [0x00000] in <filename unknown>:0 
+  at Motus.Behavior.PooledNodeRun`1[T].Dispose () [0x00000] in <filename unknown>:0 
+  at Motus.Behavior.Brancher+BranchingNodeRun.Terminate () [0x00000] in <filename unknown>:0 
+  at Motus.Behavior.NodeRun.Halt () [0x00000] in <filename unknown>:0 
+  at Motus.Behavior.PooledNodeRun`1[T].Dispose () [0x00000] in <filename unknown>:0 
+  at Motus.Behavior.Sequencer+SequenceNodeRun.Terminate () [0x00000] in <filename unknown>:0 
+  at Motus.Behavior.NodeRun.Halt () [0x00000] in <filename unknown>:0 
+  at Motus.Behavior.Looper+LoopNodeRun.Terminate () [0x00000] in <filename unknown>:0 
+  at Motus.Behavior.NodeRun.Halt () [0x00000] in <filename unknown>:0 
+  at Motus.Behavior.PooledNodeRun`1[T].Dispose () [0x00000] in <filename unknown>:0 
+  at Motus.Behavior.ParallelSequencer+ParallelNodeRun`1[T].Terminate () [0x00000] in <filename unknown>:0 
+  at Motus.Behavior.NodeRun.Halt () [0x00000] in <filename unknown>:0 
+  at Motus.Behavior.PooledNodeRun`1[T].Dispose () [0x00000] in <filename unknown>:0 
+  at Motus.Behavior.ConditionNode+ConditionalNodeRun.Terminate () [0x00000] in <filename unknown>:0 
+  at Motus.Behavior.NodeRun.Halt () [0x00000] in <filename unknown>:0 
+  at Brix.Game.Components.Behavior.OnDestroy () [0x00000] in <filename unknown>:0 
+  at Brix.Game.AI.Labor.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[LuaDriver] () [0x00000] in <filename unknown>:0 
+  at Brix.Lua.LuaDriver.<RegisterClass>m__1 (MoonSharp.Interpreter.Script sc, UnityEngine.Component c) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) System.Func`3<MoonSharp.Interpreter.Script, UnityEngine.Component, MoonSharp.Interpreter.DynValue>:invoke_DynValue__this___Script_Component (MoonSharp.Interpreter.Script,UnityEngine.Component)
+  at MoonSharp.Interpreter.Interop.CustomConvertersCollection+<>c__DisplayClass6_0`1[UnityEngine.Component].<SetClrToScriptCustomConversion>b__0 (MoonSharp.Interpreter.Script s, System.Object o) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) System.Func`3<MoonSharp.Interpreter.Script, object, MoonSharp.Interpreter.DynValue>:invoke_DynValue__this___Script_object (MoonSharp.Interpreter.Script,object)
+  at MoonSharp.Interpreter.Interop.Converters.ClrToScriptConversions.TryObjectToSimpleDynValue (MoonSharp.Interpreter.Script script, System.Object obj) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.Interop.Converters.ClrToScriptConversions.ObjectToDynValue[User] (MoonSharp.Interpreter.Script script, Brix.Game.User obj) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.Interop.Converters.ClrToScriptConversions.GenericToDynValue[User] (MoonSharp.Interpreter.Script script, Brix.Game.User value) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.DynValue.FromObject[User] (MoonSharp.Interpreter.Script script, Brix.Game.User value, Boolean readOnly) [0x00000] in <filename unknown>:0 
+  at Brix.Lua.LuaField`2[Brix.Game.User,Brix.Game.User].GetValue (MoonSharp.Interpreter.Script script, IUserData target) [0x00000] in <filename unknown>:0 
+  at Brix.Lua.LuaDriverDescriptor.Index (MoonSharp.Interpreter.Script script, IUserData obj, DynValue index, Boolean isDirectIndexing) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.Execution.VM.Processor.ExecIndex (MoonSharp.Interpreter.Execution.VM.Instruction i, Int32 instructionPtr) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.Execution.VM.Processor.Processing_Loop (Int32 instructionPtr) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.Execution.VM.Processor.Call (DynValue function, DynValue arg1, DynValue arg2, DynValue arg3, DynValue arg4, DynValue metafunction) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.Script.Call (DynValue function, DynValue arg1, DynValue arg2, DynValue arg3, DynValue arg4) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.Script.Call (DynValue function, DynValue arg1) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.Closure.Call (DynValue arg1) [0x00000] in <filename unknown>:0 
+  at Brix.Lua.LuaHookBase.<ConnectFromCLR`1>m__7[LuaDriver] (Brix.Lua.LuaDriver t1, MoonSharp.Interpreter.Closure _act) [0x00000] in <filename unknown>:0 
+  at Brix.Utils.Closures.Closure+ABase`2[Brix.Lua.LuaDriver,MoonSharp.Interpreter.Closure].Invoke (Brix.Lua.LuaDriver t1, MoonSharp.Interpreter.Closure t2) [0x00000] in <filename unknown>:0 
+  at Brix.Utils.Closures.Closure+AClosed`3[Brix.Utils.Closures.Closure+ABase`2[Brix.Lua.LuaDriver,MoonSharp.Interpreter.Closure],Brix.Lua.LuaDriver,MoonSharp.Interpreter.Closure].Invoke (Brix.Lua.LuaDriver t1) [0x00000] in <filename unknown>:0 
+  at Brix.Utils.Closures.Closure+APooled`2[Brix.Utils.Closures.Closure+AClosed`3[Brix.Utils.Closures.Closure+ABase`2[Brix.Lua.LuaDriver,MoonSharp.Interpreter.Closure],Brix.Lua.LuaDriver,MoonSharp.Interpreter.Closure],Brix.Lua.LuaDriver].<.ctor>b__1_0 (Brix.Lua.LuaDriver a) [0x00000] in <filename unknown>:0 
+  at Brix.Utils.Closures.Closure+APooled`2[Brix.Utils.Closures.Closure+AClosed`3[Brix.Utils.Closures.Closure+ABase`2[Brix.Lua.LuaDriver,MoonSharp.Interpreter.Closure],Brix.Lua.LuaDriver,MoonSharp.Interpreter.Closure],Brix.Lua.LuaDriver].Invoke (Brix.Lua.LuaDriver t1) [0x00000] in <filename unknown>:0 
+  at Brix.External.Signals.Signal`1[Brix.Lua.LuaDriver].Invoke (Brix.Lua.LuaDriver a) [0x00000] in <filename unknown>:0 
+  at Brix.Lua.LuaHookBase.InvokeFromCLR[LuaDriver] (Brix.Lua.LuaHook`1 hook, Brix.Lua.LuaDriver arg1) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Brix.Lua.LuaLibs:LuaExceptionCatcher(Exception)
+Brix.Lua.LuaHookBase:InvokeFromCLR(LuaHook`1, LuaDriver)
+Brix.Game.Components.ExplodeOnDeath:OnRelease(GameObject)
+Brix.Utils.Closures.ABase`1:Invoke(GameObject)
+Brix.Utils.Closures.APooled`2:<.ctor>b__1_0(GameObject)
+Brix.Utils.Closures.APooled`2:Invoke(GameObject)
+Brix.External.Signals.Signal`1:SafeInvoke(GameObject)
+Brix.Components.BrixComponentPoco:ResetComponent()
+Brix.Components.BrixComponent:ResetComponent()
+Brix.Lua.LuaDriver:ResetComponent()
+Brix.Components.<>c:<ForceResetComponent>b__37_0(IPoolableComponent)
+Smooth.Slinq.Slinq`2:ForEach(DelegateAction`1)
+Brix.Components.BrixComponentPoco:ForceResetComponent()
+Brix.Components.BrixComponentPoco:OnDestroy()
+Brix.Components.BrixComponent:OnDestroy()
+Brix.Lua.LuaDriver:OnDestroy()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[LuaDriver] () [0x00000] in <filename unknown>:0 
+  at Brix.Lua.LuaDriver.<RegisterClass>m__1 (MoonSharp.Interpreter.Script sc, UnityEngine.Component c) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) System.Func`3<MoonSharp.Interpreter.Script, UnityEngine.Component, MoonSharp.Interpreter.DynValue>:invoke_DynValue__this___Script_Component (MoonSharp.Interpreter.Script,UnityEngine.Component)
+  at MoonSharp.Interpreter.Interop.CustomConvertersCollection+<>c__DisplayClass6_0`1[UnityEngine.Component].<SetClrToScriptCustomConversion>b__0 (MoonSharp.Interpreter.Script s, System.Object o) [0x00000] in <filename unknown>:0 
+  at (wrapper delegate-invoke) System.Func`3<MoonSharp.Interpreter.Script, object, MoonSharp.Interpreter.DynValue>:invoke_DynValue__this___Script_object (MoonSharp.Interpreter.Script,object)
+  at MoonSharp.Interpreter.Interop.Converters.ClrToScriptConversions.TryObjectToSimpleDynValue (MoonSharp.Interpreter.Script script, System.Object obj) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.Interop.Converters.ClrToScriptConversions.ObjectToDynValue[User] (MoonSharp.Interpreter.Script script, Brix.Game.User obj) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.Interop.Converters.ClrToScriptConversions.GenericToDynValue[User] (MoonSharp.Interpreter.Script script, Brix.Game.User value) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.DynValue.FromObject[User] (MoonSharp.Interpreter.Script script, Brix.Game.User value, Boolean readOnly) [0x00000] in <filename unknown>:0 
+  at Brix.Lua.LuaField`2[Brix.Game.User,Brix.Game.User].GetValue (MoonSharp.Interpreter.Script script, IUserData target) [0x00000] in <filename unknown>:0 
+  at Brix.Lua.LuaDriverDescriptor.Index (MoonSharp.Interpreter.Script script, IUserData obj, DynValue index, Boolean isDirectIndexing) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.Execution.VM.Processor.ExecIndex (MoonSharp.Interpreter.Execution.VM.Instruction i, Int32 instructionPtr) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.Execution.VM.Processor.Processing_Loop (Int32 instructionPtr) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.Execution.VM.Processor.Call (DynValue function, DynValue arg1, DynValue arg2, DynValue arg3, DynValue arg4, DynValue metafunction) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.Script.Call (DynValue function, DynValue arg1, DynValue arg2, DynValue arg3, DynValue arg4) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.Script.Call (DynValue function, DynValue arg1) [0x00000] in <filename unknown>:0 
+  at MoonSharp.Interpreter.Closure.Call (DynValue arg1) [0x00000] in <filename unknown>:0 
+  at Brix.Lua.LuaHookBase.<ConnectFromCLR`1>m__7[LuaDriver] (Brix.Lua.LuaDriver t1, MoonSharp.Interpreter.Closure _act) [0x00000] in <filename unknown>:0 
+  at Brix.Utils.Closures.Closure+ABase`2[Brix.Lua.LuaDriver,MoonSharp.Interpreter.Closure].Invoke (Brix.Lua.LuaDriver t1, MoonSharp.Interpreter.Closure t2) [0x00000] in <filename unknown>:0 
+  at Brix.Utils.Closures.Closure+AClosed`3[Brix.Utils.Closures.Closure+ABase`2[Brix.Lua.LuaDriver,MoonSharp.Interpreter.Closure],Brix.Lua.LuaDriver,MoonSharp.Interpreter.Closure].Invoke (Brix.Lua.LuaDriver t1) [0x00000] in <filename unknown>:0 
+  at Brix.Utils.Closures.Closure+APooled`2[Brix.Utils.Closures.Closure+AClosed`3[Brix.Utils.Closures.Closure+ABase`2[Brix.Lua.LuaDriver,MoonSharp.Interpreter.Closure],Brix.Lua.LuaDriver,MoonSharp.Interpreter.Closure],Brix.Lua.LuaDriver].<.ctor>b__1_0 (Brix.Lua.LuaDriver a) [0x00000] in <filename unknown>:0 
+  at Brix.Utils.Closures.Closure+APooled`2[Brix.Utils.Closures.Closure+AClosed`3[Brix.Utils.Closures.Closure+ABase`2[Brix.Lua.LuaDriver,MoonSharp.Interpreter.Closure],Brix.Lua.LuaDriver,MoonSharp.Interpreter.Closure],Brix.Lua.LuaDriver].Invoke (Brix.Lua.LuaDriver t1) [0x00000] in <filename unknown>:0 
+  at Brix.External.Signals.Signal`1[Brix.Lua.LuaDriver].Invoke (Brix.Lua.LuaDriver a) [0x00000] in <filename unknown>:0 
+  at Brix.Lua.LuaHookBase.InvokeFromCLR[LuaDriver] (Brix.Lua.LuaHook`1 hook, Brix.Lua.LuaDriver arg1) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Brix.Lua.LuaLibs:LuaExceptionCatcher(Exception)
+Brix.Lua.LuaHookBase:InvokeFromCLR(LuaHook`1, LuaDriver)
+Brix.Game.Components.ExplodeOnDeath:OnRelease(GameObject)
+Brix.Utils.Closures.ABase`1:Invoke(GameObject)
+Brix.Utils.Closures.APooled`2:<.ctor>b__1_0(GameObject)
+Brix.Utils.Closures.APooled`2:Invoke(GameObject)
+Brix.External.Signals.Signal`1:SafeInvoke(GameObject)
+Brix.Components.BrixComponentPoco:OnDestroy()
+Brix.Components.BrixComponent:OnDestroy()
+Brix.Lua.LuaDriver:OnDestroy()
+ 
+(Filename:  Line: -1)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;D:\Games\Castle Story;D:\Games\Castle Story;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'QLS_Sashok'
+OS-Version: 10.0.19044 () 0x100-0x1
+D:\Games\Castle Story\Castle Story.exe:Castle Story.exe (00C20000), size: 19038208 (result: 0), SymType: '-exported-', PDB: 'D:\Games\Castle Story\Castle Story.exe', fileVersion: 5.6.5.44118
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (77400000), size: 1720320 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ntdll.dll', fileVersion: 10.0.19041.2130
+C:\Windows\System32\KERNEL32.DLL:KERNEL32.DLL (76410000), size: 983040 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\KERNEL32.DLL', fileVersion: 10.0.19041.1889
+C:\Windows\System32\KERNELBASE.dll:KERNELBASE.dll (761F0000), size: 2211840 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\KERNELBASE.dll', fileVersion: 10.0.19041.2130
+C:\Windows\SYSTEM32\apphelp.dll:apphelp.dll (73C70000), size: 655360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\apphelp.dll', fileVersion: 10.0.19041.2075
+C:\Windows\SYSTEM32\AcLayers.DLL:AcLayers.DLL (72480000), size: 2637824 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\AcLayers.DLL', fileVersion: 10.0.19041.1266
+C:\Windows\System32\msvcrt.dll:msvcrt.dll (76AE0000), size: 782336 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\msvcrt.dll', fileVersion: 7.0.19041.546
+C:\Windows\System32\USER32.dll:USER32.dll (75980000), size: 1691648 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\USER32.dll', fileVersion: 10.0.19041.2130
+C:\Windows\System32\win32u.dll:win32u.dll (76940000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\win32u.dll', fileVersion: 10.0.19041.2130
+C:\Windows\System32\GDI32.dll:GDI32.dll (76E20000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\GDI32.dll', fileVersion: 10.0.19041.2130
+C:\Windows\System32\gdi32full.dll:gdi32full.dll (76860000), size: 917504 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\gdi32full.dll', fileVersion: 10.0.19041.2130
+C:\Windows\System32\msvcp_win.dll:msvcp_win.dll (766A0000), size: 503808 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\msvcp_win.dll', fileVersion: 10.0.19041.789
+C:\Windows\System32\ucrtbase.dll:ucrtbase.dll (75B20000), size: 1179648 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ucrtbase.dll', fileVersion: 10.0.19041.789
+C:\Windows\System32\SHELL32.dll:SHELL32.dll (752C0000), size: 5984256 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\SHELL32.dll', fileVersion: 10.0.19041.2075
+C:\Windows\System32\SHLWAPI.dll:SHLWAPI.dll (76500000), size: 282624 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\SHLWAPI.dll', fileVersion: 10.0.19041.2075
+C:\Windows\System32\OLEAUT32.dll:OLEAUT32.dll (76FD0000), size: 614400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\OLEAUT32.dll', fileVersion: 10.0.19041.985
+C:\Windows\System32\combase.dll:combase.dll (76BA0000), size: 2621440 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\combase.dll', fileVersion: 10.0.19041.2130
+C:\Windows\System32\RPCRT4.dll:RPCRT4.dll (772F0000), size: 778240 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\RPCRT4.dll', fileVersion: 10.0.19041.1806
+C:\Windows\System32\SETUPAPI.dll:SETUPAPI.dll (75D20000), size: 4427776 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\SETUPAPI.dll', fileVersion: 10.0.19041.1741
+C:\Windows\System32\cfgmgr32.dll:cfgmgr32.dll (773B0000), size: 241664 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\cfgmgr32.dll', fileVersion: 10.0.19041.1620
+C:\Windows\System32\bcrypt.dll:bcrypt.dll (767C0000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\bcrypt.dll', fileVersion: 10.0.19041.1023
+C:\Windows\SYSTEM32\MPR.dll:MPR.dll (73BD0000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MPR.dll', fileVersion: 10.0.19041.1806
+C:\Windows\SYSTEM32\sfc.dll:sfc.dll (00780000), size: 12288 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\sfc.dll', fileVersion: 10.0.19041.2075
+C:\Windows\SYSTEM32\WINSPOOL.DRV:WINSPOOL.DRV (73160000), size: 471040 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINSPOOL.DRV', fileVersion: 10.0.19041.2075
+C:\Windows\SYSTEM32\sfc_os.DLL:sfc_os.DLL (74600000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\sfc_os.DLL', fileVersion: 10.0.19041.2075
+C:\Windows\System32\IMM32.DLL:IMM32.DLL (75880000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\IMM32.DLL', fileVersion: 10.0.19041.546
+C:\Windows\System32\ole32.dll:ole32.dll (765B0000), size: 929792 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ole32.dll', fileVersion: 10.0.19041.1202
+C:\Windows\System32\ADVAPI32.dll:ADVAPI32.dll (767E0000), size: 503808 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ADVAPI32.dll', fileVersion: 10.0.19041.2130
+C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (747A0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\VERSION.dll', fileVersion: 10.0.19041.546
+C:\Windows\System32\sechost.dll:sechost.dll (76960000), size: 483328 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\sechost.dll', fileVersion: 10.0.19041.1865
+C:\Windows\SYSTEM32\HID.DLL:HID.DLL (73460000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\HID.DLL', fileVersion: 10.0.19041.546
+C:\Windows\System32\WS2_32.dll:WS2_32.dll (76F00000), size: 405504 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\WS2_32.dll', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (5D650000), size: 1064960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OPENGL32.dll', fileVersion: 10.0.19041.2075
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (74210000), size: 163840 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINMM.dll', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\DNSAPI.dll:DNSAPI.dll (74180000), size: 589824 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DNSAPI.dll', fileVersion: 10.0.19041.1865
+C:\Windows\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (75240000), size: 204800 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\IPHLPAPI.DLL', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (747E0000), size: 831488 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINHTTP.dll', fileVersion: 10.0.19041.2075
+C:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (5D610000), size: 258048 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\GLU32.dll', fileVersion: 10.0.19041.2075
+C:\Windows\System32\NSI.dll:NSI.dll (767B0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\NSI.dll', fileVersion: 10.0.19041.610
+C:\Windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (74F90000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\kernel.appcore.dll', fileVersion: 10.0.19041.546
+C:\Windows\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (76F70000), size: 389120 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\bcryptPrimitives.dll', fileVersion: 10.0.19041.1415
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (73BF0000), size: 475136 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\uxtheme.dll', fileVersion: 10.0.19041.2130
+D:\Games\Castle Story\Castle Story_Data\Mono\mono.dll:mono.dll (10000000), size: 2297856 (result: 0), SymType: '-exported-', PDB: 'D:\Games\Castle Story\Castle Story_Data\Mono\mono.dll', fileVersion: 1.0.0.1
+C:\Windows\System32\PSAPI.DLL:PSAPI.DLL (758B0000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\PSAPI.DLL', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (72EB0000), size: 335872 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSWSOCK.dll', fileVersion: 10.0.19041.546
+C:\Windows\System32\shcore.dll:shcore.dll (76160000), size: 552960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\shcore.dll', fileVersion: 10.0.19041.1645
+C:\Windows\System32\MSCTF.dll:MSCTF.dll (75C40000), size: 868352 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\MSCTF.dll', fileVersion: 10.0.19041.2075
+C:\Windows\SYSTEM32\d3d11.dll:d3d11.dll (69A60000), size: 1966080 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\d3d11.dll', fileVersion: 10.0.19041.2075
+C:\Windows\SYSTEM32\dxgi.dll:dxgi.dll (6A680000), size: 794624 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dxgi.dll', fileVersion: 10.0.19041.2075
+C:\Windows\System32\DriverStore\FileRepository\nvrfig.inf_amd64_8fcae2428e0482d3\nvldumd.dll:nvldumd.dll (69260000), size: 892928 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\DriverStore\FileRepository\nvrfig.inf_amd64_8fcae2428e0482d3\nvldumd.dll', fileVersion: 30.0.15.1123
+C:\Windows\SYSTEM32\msasn1.dll:msasn1.dll (74780000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\msasn1.dll', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\cryptnet.dll:cryptnet.dll (73290000), size: 155648 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\cryptnet.dll', fileVersion: 10.0.19041.906
+C:\Windows\System32\CRYPT32.dll:CRYPT32.dll (769E0000), size: 1024000 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\CRYPT32.dll', fileVersion: 10.0.19041.1889
+C:\Windows\SYSTEM32\drvstore.dll:drvstore.dll (69160000), size: 1048576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\drvstore.dll', fileVersion: 10.0.19041.1949
+C:\Windows\SYSTEM32\devobj.dll:devobj.dll (69130000), size: 147456 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\devobj.dll', fileVersion: 10.0.19041.1620
+C:\Windows\SYSTEM32\wldp.dll:wldp.dll (747B0000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\wldp.dll', fileVersion: 10.0.19041.2075
+C:\Windows\SYSTEM32\cryptbase.dll:cryptbase.dll (74610000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\cryptbase.dll', fileVersion: 10.0.19041.546
+C:\Windows\System32\WINTRUST.DLL:WINTRUST.DLL (75920000), size: 319488 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\WINTRUST.DLL', fileVersion: 10.0.19041.2075
+C:\Windows\System32\imagehlp.dll:imagehlp.dll (76E50000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\imagehlp.dll', fileVersion: 10.0.19041.1415
+C:\Windows\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (74620000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\CRYPTSP.dll', fileVersion: 10.0.19041.546
+C:\Windows\system32\rsaenh.dll:rsaenh.dll (743D0000), size: 192512 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\rsaenh.dll', fileVersion: 10.0.19041.1052
+C:\Windows\System32\DriverStore\FileRepository\nvrfig.inf_amd64_8fcae2428e0482d3\nvwgf2um.dll:nvwgf2um.dll (53890000), size: 35377152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\DriverStore\FileRepository\nvrfig.inf_amd64_8fcae2428e0482d3\nvwgf2um.dll', fileVersion: 30.0.15.1123
+C:\Windows\SYSTEM32\windows.storage.dll:windows.storage.dll (748D0000), size: 6332416 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\windows.storage.dll', fileVersion: 10.0.19041.2130
+C:\Windows\system32\nvspcap.dll:nvspcap.dll (6ED60000), size: 2236416 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\nvspcap.dll', fileVersion: 3.24.0.123
+C:\Windows\SYSTEM32\profapi.dll:profapi.dll (74760000), size: 98304 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\SYSTEM32\profapi.dll', fileVersion: 10.0.19041.844
+C:\Windows\SYSTEM32\ntmarta.dll:ntmarta.dll (74640000), size: 167936 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ntmarta.dll', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\dxcore.dll:dxcore.dll (669E0000), size: 180224 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dxcore.dll', fileVersion: 10.0.19041.546
+C:\Windows\System32\clbcatq.dll:clbcatq.dll (76E70000), size: 536576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\clbcatq.dll', fileVersion: 2001.12.10941.16384
+C:\Windows\system32\wbem\wbemprox.dll:wbemprox.dll (745F0000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wbem\wbemprox.dll', fileVersion: 10.0.19041.1320
+C:\Windows\SYSTEM32\wbemcomn.dll:wbemcomn.dll (74580000), size: 458752 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\wbemcomn.dll', fileVersion: 10.0.19041.1566
+C:\Windows\system32\wbem\wbemsvc.dll:wbemsvc.dll (74570000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wbem\wbemsvc.dll', fileVersion: 10.0.19041.1320
+C:\Windows\system32\wbem\fastprox.dll:fastprox.dll (744A0000), size: 823296 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wbem\fastprox.dll', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\amsi.dll:amsi.dll (74480000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\amsi.dll', fileVersion: 10.0.19041.2075
+C:\Windows\SYSTEM32\USERENV.dll:USERENV.dll (75280000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\USERENV.dll', fileVersion: 10.0.19041.572
+C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2210.4-0\X86\MpOav.dll:MpOav.dll (74410000), size: 442368 (result: 0), SymType: '-exported-', PDB: 'C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2210.4-0\X86\MpOav.dll', fileVersion: 4.18.2210.4
+C:\Windows\System32\MMDevApi.dll:MMDevApi.dll (73050000), size: 438272 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\MMDevApi.dll', fileVersion: 10.0.19041.2075
+C:\Windows\SYSTEM32\winmmbase.dll:winmmbase.dll (60850000), size: 118784 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\winmmbase.dll', fileVersion: 10.0.19041.1
+C:\Windows\SYSTEM32\wdmaud.drv:wdmaud.drv (5A800000), size: 237568 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\wdmaud.drv', fileVersion: 10.0.19041.1
+C:\Windows\SYSTEM32\AVRT.dll:AVRT.dll (73450000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\AVRT.dll', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\ksuser.dll:ksuser.dll (71E50000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ksuser.dll', fileVersion: 10.0.19041.1
+C:\Windows\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (5A840000), size: 1269760 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\AUDIOSES.DLL', fileVersion: 10.0.19041.1741
+C:\Windows\SYSTEM32\powrprof.dll:powrprof.dll (74EF0000), size: 278528 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\powrprof.dll', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\UMPDC.dll:UMPDC.dll (74EE0000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\UMPDC.dll'
+C:\Windows\SYSTEM32\msacm32.drv:msacm32.drv (713C0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\msacm32.drv', fileVersion: 10.0.19041.488
+C:\Windows\SYSTEM32\MSACM32.dll:MSACM32.dll (5EC50000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSACM32.dll', fileVersion: 10.0.19041.1
+C:\Windows\SYSTEM32\midimap.dll:midimap.dll (672B0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\midimap.dll', fileVersion: 10.0.19041.488
+C:\Windows\SYSTEM32\resourcepolicyclient.dll:resourcepolicyclient.dll (55A50000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\resourcepolicyclient.dll', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\xinput1_3.dll:xinput1_3.dll (13280000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\xinput1_3.dll', fileVersion: 9.18.944.0
+C:\Windows\SYSTEM32\textinputframework.dll:textinputframework.dll (671F0000), size: 757760 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\textinputframework.dll', fileVersion: 10.0.19041.2075
+C:\Windows\System32\CoreMessaging.dll:CoreMessaging.dll (67AB0000), size: 634880 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\CoreMessaging.dll', fileVersion: 10.0.19041.867
+C:\Windows\System32\CoreUIComponents.dll:CoreUIComponents.dll (67830000), size: 2613248 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\CoreUIComponents.dll', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\wintypes.dll:wintypes.dll (718B0000), size: 897024 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\wintypes.dll', fileVersion: 10.0.19041.2130
+D:\Games\Castle Story\steam_api.dll:steam_api.dll (6EC10000), size: 204800 (result: 0), SymType: '-exported-', PDB: 'D:\Games\Castle Story\steam_api.dll', fileVersion: 3.3.47.38
+D:\Games\Castle Story\Castle Story_Data\Plugins\steam_api.dll:steam_api.dll (6EBD0000), size: 204800 (result: 0), SymType: '-exported-', PDB: 'D:\Games\Castle Story\Castle Story_Data\Plugins\steam_api.dll', fileVersion: 3.3.47.38
+C:\Windows\SYSTEM32\bthprops.cpl:bthprops.cpl (6DBE0000), size: 237568 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\bthprops.cpl', fileVersion: 10.0.19041.388
+C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\comctl32.dll:comctl32.dll (73600000), size: 2162688 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\comctl32.dll', fileVersion: 6.10.19041.1110
+C:\Windows\SYSTEM32\xinput1_4.dll:xinput1_4.dll (731E0000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\xinput1_4.dll', fileVersion: 10.0.19041.844
+C:\Windows\SYSTEM32\inputhost.dll:inputhost.dll (67B50000), size: 970752 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\inputhost.dll', fileVersion: 10.0.19041.1741
+C:\Windows\SYSTEM32\PROPSYS.dll:PROPSYS.dll (71EF0000), size: 794624 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\PROPSYS.dll', fileVersion: 7.0.19041.1741
+C:\Windows\SYSTEM32\xinput1_2.dll:xinput1_2.dll (177B0000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\xinput1_2.dll', fileVersion: 9.14.701.0
+C:\Windows\SYSTEM32\xinput1_1.dll:xinput1_1.dll (177D0000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\xinput1_1.dll', fileVersion: 9.12.589.0
+C:\Windows\SYSTEM32\xinput9_1_0.dll:xinput9_1_0.dll (72E30000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\xinput9_1_0.dll', fileVersion: 10.0.19041.1
+D:\Games\Castle Story\Castle Story_Data\Plugins\CSteamworks.dll:CSteamworks.dll (6DBB0000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'D:\Games\Castle Story\Castle Story_Data\Plugins\CSteamworks.dll', fileVersion: 1.24.0.0
+C:\Windows\SYSTEM32\mscms.dll:mscms.dll (730C0000), size: 602112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\mscms.dll', fileVersion: 10.0.19041.746
+C:\Windows\SYSTEM32\ColorAdapterClient.dll:ColorAdapterClient.dll (73850000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ColorAdapterClient.dll', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\icm32.dll:icm32.dll (58E70000), size: 253952 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\icm32.dll', fileVersion: 10.0.19041.546
+D:\Games\Castle Story\Castle Story_Data\Plugins\AkSoundEngine.dll:AkSoundEngine.dll (6DA70000), size: 1249280 (result: 0), SymType: '-exported-', PDB: 'D:\Games\Castle Story\Castle Story_Data\Plugins\AkSoundEngine.dll'
+C:\Windows\SYSTEM32\XAudio2_9.dll:XAudio2_9.dll (6D9D0000), size: 630784 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\XAudio2_9.dll', fileVersion: 10.0.19041.1865
+C:\Windows\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (73D30000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dhcpcsvc6.DLL', fileVersion: 10.0.19041.2130
+C:\Windows\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (73D10000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dhcpcsvc.DLL', fileVersion: 10.0.19041.2130
+C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (72D60000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\rasadhlp.dll', fileVersion: 10.0.19041.546
+C:\Windows\System32\fwpuclnt.dll:fwpuclnt.dll (73AE0000), size: 364544 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\fwpuclnt.dll', fileVersion: 10.0.19041.1682
+C:\Windows\SYSTEM32\dwmapi.dll:dwmapi.dll (727D0000), size: 155648 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dwmapi.dll', fileVersion: 10.0.19041.746
+C:\Windows\SYSTEM32\dbghelp.dll:dbghelp.dll (0EE60000), size: 1605632 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dbghelp.dll', fileVersion: 10.0.19041.1052
+C:\Windows\SYSTEM32\SspiCli.dll:SspiCli.dll (74730000), size: 135168 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SspiCli.dll', fileVersion: 10.0.19041.2130
+
+========== OUTPUTING STACK TRACE ==================
+
+0x10001EA5 (mono) g_free
+0x1002B8CF (mono) mono_gc_is_finalizer_thread
+0x1002B9B4 (mono) mono_gc_is_finalizer_thread
+0x1010CE80 (mono) unity_mono_reflection_method_get_method
+0x7642FA29 (KERNEL32) BaseThreadInitThunk
+0x77467BBE (ntdll) RtlGetAppContainerNamedObjectPath
+0x77467B8E (ntdll) RtlGetAppContainerNamedObjectPath
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****
